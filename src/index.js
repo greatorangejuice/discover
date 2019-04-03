@@ -4,12 +4,13 @@ import './index.css';
 // import Game from './tictac/tictacGame'
 // import App from './components/events'
 // import App from './components/conditional_render'
-import Table from './components/fragmend_and_css'
+// import Table from './components/fragmend_and_css'
+import Form from './components/forms'
 
 // ========================================
 
 ReactDOM.render(
-  <Table />,
+  <Form />,
   document.getElementById('root')
 );
 
